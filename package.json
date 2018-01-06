@@ -1,0 +1,19 @@
+{
+  "name": "node_mqtt_temp_01",
+  "version": "1.0.0",
+  "description": "Useful Info:",
+  "main": "node_mqtt_temp_01.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/philipyeo/raspberryPi_node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/philipyeo/raspberryPi_node/issues"
+  },
+  "homepage": "https://github.com/philipyeo/raspberryPi_node#readme"
+}
